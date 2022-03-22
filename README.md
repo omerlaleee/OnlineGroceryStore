@@ -64,6 +64,32 @@ Bu .Net Form Uygulamasının formlarını içeren klasördür.
 
 <a href="https://github.com/ahmthlmzn">Ahmet Halim UZUN</a> - %25
 
+<table style="height: 151px; width: 561.156px;">
+<tbody>
+<tr>
+<td style="width: 176px; text-align: center;">İsim - Soyisim</td>
+<td style="width: 22px; text-align: center;">%</td>
+</tr>
+<tr>
+  
+<td style="width: 176px; text-align: center;"><a href="https://github.com/omerlaleee">Ömer Faruk LALE</a></td>
+<td style="width: 22px; text-align: center;">25</td>
+</tr>
+<tr>
+<td style="width: 176px; text-align: center;"><a href="https://github.com/MesutKizilay">Mesut KIZILAY</a></td>
+<td style="width: 22px; text-align: center;">25</td>
+</tr>
+<tr>
+<td style="width: 176px; text-align: center;"><a href="https://github.com/ahmthlmzn">Ahmet Halim UZUN</a></td>
+<td style="width: 22px; text-align: center;">25</td>
+</tr>
+<tr>
+<td style="width: 176px; text-align: center;"><a href="https://github.com/ezgiozdikyar">Ezgi ÖZDİKYAR</a></td>
+<td style="width: 22px; text-align: center;">25</td>
+</tr>
+</tbody>
+</table>
+
 
 # Proje Görüntüleri
 
