@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "849625e9-b212-454d-bc8a-f6f0bffed4bd": {
+      "ProjectGuid": "849625e9-b212-454d-bc8a-f6f0bffed4bd",
+      "DisplayName": "OnlineGroceryStore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
