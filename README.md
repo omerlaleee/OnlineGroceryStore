@@ -109,5 +109,10 @@ Veritabanı Tabloları İlişkisi
 Ürünler Tablosu
 ![image](https://user-images.githubusercontent.com/58256256/159505517-6a9ff897-aa33-4851-a26b-c0dcf0b35121.png)
 Kullanıcılar Tablosu
+
+ <p align = "center">
+  <img src="https://user-images.githubusercontent.com/58256256/159505538-3f0bee1d-c0fc-4777-9928-2404ef325fdc.png">
+</p>  
+
 ![image](https://user-images.githubusercontent.com/58256256/159505538-3f0bee1d-c0fc-4777-9928-2404ef325fdc.png)
 Sepette Bulunan Ürünler Tablosu
