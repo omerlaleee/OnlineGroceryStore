@@ -57,8 +57,11 @@ Bu .Net Form Uygulamasının formlarını içeren klasördür.
 # İş Yükü
 
 Ömer Faruk LALE - %25
+
 Mesut KIZILAY - %25	
+
 Ezgi ÖZDİKYAR - %25	
+
 Ahmet Halim UZUN - %25	
 
 # Proje Görüntüleri
