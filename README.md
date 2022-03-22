@@ -64,33 +64,6 @@ Ezgi ÖZDİKYAR - %25
 
 Ahmet Halim UZUN - %25	
 
-# İş Yükü
-<table style="height: 151px; width: 561.156px;">
-<tbody>
-<tr>
-<td style="width: 176px; text-align: center;">İsim - Soyisim</td>
-<td style="width: 22px; text-align: center;">%</td>
-<td style="width: 335.156px; text-align: center;">%</td>
-</tr>
-<tr>
-  
-<td style="width: 176px; text-align: center;"><a href="https://github.com/omerlaleee">Ömer Faruk LALE</a></td>
-<td style="width: 22px; text-align: center;">%25</td>
-</tr>
-<tr>
-<td style="width: 176px; text-align: center;"><a href="https://github.com/MesutKizilay">Mesut KIZILAY</a></td>
-<td style="width: 22px; text-align: center;">%25</td>
-</tr>
-<tr>
-<td style="width: 176px; text-align: center;"><a href="https://github.com/ahmthlmzn">Ahmet Halim UZUN</a></td>
-<td style="width: 22px; text-align: center;">%25</td>
-</tr>
-<tr>
-<td style="width: 176px; text-align: center;"><a href="https://github.com/ezgiozdikyar">Ezgi ÖZDİKYAR</a></td>
-<td style="width: 22px; text-align: center;">%25</td>
-</tr>
-<tr>
-
 # Proje Görüntüleri
 
 ![image](https://user-images.githubusercontent.com/58256256/159505135-1bd142d7-7567-4886-b26c-8b9c4323f18a.png)
