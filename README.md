@@ -64,22 +64,31 @@ Ahmet Halim UZUN - %25
 # Proje Görüntüleri
 
 ![image](https://user-images.githubusercontent.com/58256256/159505135-1bd142d7-7567-4886-b26c-8b9c4323f18a.png)
+
 Giriş Formu
 ![image](https://user-images.githubusercontent.com/58256256/159505169-1820a944-4482-4217-92dc-7b4206408b6e.png)
+
 Kayıt Formu
 ![image](https://user-images.githubusercontent.com/58256256/159505219-ff591999-f022-477a-98f8-db132089609a.png)
+
 Admin Ana Menu ve Mağaza Ekranı
 ![image](https://user-images.githubusercontent.com/58256256/159505255-b35c2375-0b36-4b87-b097-dc5b14a2ccb3.png)
+
 Mağazada Ürün Fotoğrafına Basıldığında Ürün Özelliklerini Gösteren Ekran
 ![image](https://user-images.githubusercontent.com/58256256/159505293-48c9edb4-48d2-458c-9da9-6dc1a6fb5495.png)
+
 Sepetim Ekranı
 ![image](https://user-images.githubusercontent.com/58256256/159505317-573015f7-99ff-4e3e-b9d6-4cc4a489dbfe.png)
+
 Alışveriş Tamamlandığında Gelen Fatura Ekranı
 ![image](https://user-images.githubusercontent.com/58256256/159505343-60057811-54a6-42ce-8352-427e8c40fd96.png)
+
 Admin Girişine Özel Ayarlar Formu
 ![image](https://user-images.githubusercontent.com/58256256/159505373-59d99595-44b2-4014-b2af-a46521787122.png)
+
 Müşteri Girişi (Ayarlar Sekmesi Gizli)
 ![image](https://user-images.githubusercontent.com/58256256/159505405-3ef37ade-6e6a-433c-9358-d105f293b778.png)
+
 Profilim Ekranı
 
 # Veritabanı Görüntüleri
