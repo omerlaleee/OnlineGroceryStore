@@ -104,10 +104,17 @@ Profilim Ekranı
 
 # Veritabanı Görüntüleri
 ![image](https://user-images.githubusercontent.com/58256256/159505459-df5a4f14-ff45-4121-9d5a-4933b9678c42.png)
+
 Veritabanı Tabloları İlişkisi
+
 ![image](https://user-images.githubusercontent.com/58256256/159505487-9c70119f-32a3-42cb-a44d-4a992401cc27.png)
+
 Ürünler Tablosu
+
 ![image](https://user-images.githubusercontent.com/58256256/159505517-6a9ff897-aa33-4851-a26b-c0dcf0b35121.png)
+
 Kullanıcılar Tablosu
+
 ![image](https://user-images.githubusercontent.com/58256256/159505538-3f0bee1d-c0fc-4777-9928-2404ef325fdc.png)
+
 Sepette Bulunan Ürünler Tablosu
