@@ -23,9 +23,9 @@ IRepositoryDal Template Interface Sınıfı
 
 DataAccessLayer/Abstracts klasörü içerisinde geri kalan I(Entity)Dal isimli 3 sınıf ise bu template interface’i implement eden, ve içerilerinde kendilerine özgü metotları barındıran interface’lerdir.  
 
-	DataAccessLayer/Concretes klasörü içerisindeki (Entity)ManagerDal isimli 3 sınıf yukarıdaki I(Entity)Dal isimli 3 sınıf’ı implement eden ve ayrı ayrı herbirinin içindeki metotların görevini yapacak kodları barındıran sınıflardır.
+DataAccessLayer/Concretes klasörü içerisindeki (Entity)ManagerDal isimli 3 sınıf yukarıdaki I(Entity)Dal isimli 3 sınıf’ı implement eden ve ayrı ayrı herbirinin içindeki metotların görevini yapacak kodları barındıran sınıflardır.
 
-	DataAccessLayer/Concretes klasörü içerisinde ayrı olarak DatabaseConnectionManager isimli bir sınıf bulunur ve bu sınıf veritabanına bağlanma ve bağlantıyı kesme işlemlerini yapan sınıftır. Bu sınıf (Entity)ManagerDal isimli dosyalar içerisinde gerektiği yerde veritabanına ulaşmak amacıyla kullanılır.
+DataAccessLayer/Concretes klasörü içerisinde ayrı olarak DatabaseConnectionManager isimli bir sınıf bulunur ve bu sınıf veritabanına bağlanma ve bağlantıyı kesme işlemlerini yapan sınıftır. Bu sınıf (Entity)ManagerDal isimli dosyalar içerisinde gerektiği yerde veritabanına ulaşmak amacıyla kullanılır.
 
 # Core Klasörü
 
