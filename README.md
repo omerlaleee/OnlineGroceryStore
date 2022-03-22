@@ -58,7 +58,10 @@ Bu .Net Form Uygulamasının formlarını içeren klasördür.
 
 Ömer Faruk LALE - %25
 
-<a href="https://github.com/omerlaleee">Ömer Faruk LALE</a>
+<a href="https://github.com/omerlaleee">Ömer Faruk LALE - %25</a>
+<a href="https://github.com/MesutKizilay">Mesut KIZILAY - %25</a>
+<a href="https://github.com/ezgiozdikyar">Ezgi ÖZDİKYAR - %25</a>
+<a href="https://github.com/ahmthlmzn">Ahmet Halim UZUN - %25</a>
 
 Mesut KIZILAY - %25	
 
