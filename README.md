@@ -56,10 +56,14 @@ Bu .Net Form Uygulamasının formlarını içeren klasördür.
 
 # İş Yükü
 
-<a href="https://github.com/omerlaleee">Ömer Faruk LALE - %25</a>
-<a href="https://github.com/MesutKizilay">Mesut KIZILAY - %25</a>
-<a href="https://github.com/ezgiozdikyar">Ezgi ÖZDİKYAR - %25</a>
-<a href="https://github.com/ahmthlmzn">Ahmet Halim UZUN - %25</a>
+<a href="https://github.com/omerlaleee">Ömer Faruk LALE</a> - %25
+
+<a href="https://github.com/MesutKizilay">Mesut KIZILAY</a> - %25
+
+<a href="https://github.com/ezgiozdikyar">Ezgi ÖZDİKYAR</a> - %25
+
+<a href="https://github.com/ahmthlmzn">Ahmet Halim UZUN</a> - %25
+
 
 # Proje Görüntüleri
 
